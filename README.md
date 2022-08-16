@@ -21,7 +21,11 @@
 </div>
 
 ###
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ###
 
@@ -29,7 +33,7 @@
 
 ###
 
-<p align="left">An app that shows all dog breeds available in the dog api. You can filter the breeds and even create new breeds that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br>You can try it here, but wait a little bit  in the home for the backend to wake up: https://breeds.vercel.app/</p>
+<p align="left">An app that shows all dog breeds available in the dog api. You can filter the breeds and even create new breeds that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br>You can try it here, but wait a little bit  in the home for the back-end to wake up: https://breeds.vercel.app/</p>
 
 ###
 
@@ -57,11 +61,12 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/zeus1337/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p>zvzeus@gmail.com</p>
   </a>
 </div>
 
