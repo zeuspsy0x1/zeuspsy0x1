@@ -2,10 +2,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="seu link" target="white"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30" width="30" /></a>
-</p>
+
 
 <p align="left">Sí, Zeus es mi nombre real. <br><br>Estudié psicología y desarrollo web full-stack. Actualmente estoy en el proceso de mejorar mis habilidades para crear aplicaciones visualmente atractivas, rápidas y fáciles de utilizar. Me estoy centrando en el front-end, pero tengo experiencia con los stacks de tecnologías MERN y PERN. Puedes ver mis proyectos acá abajo:</p>
 
@@ -51,15 +48,16 @@
 </div>
 
 ###
-<div align="center">
-<div>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeuspsy0x1&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</div>
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeuspsy0x1&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/zeusp/count.svg?"  />
 </div>
 
 ###
+
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/zeus1337/" target="_blank">
