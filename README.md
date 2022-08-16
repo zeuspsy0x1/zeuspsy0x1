@@ -20,14 +20,11 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="250" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="250" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
