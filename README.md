@@ -55,7 +55,7 @@
 
 ###
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeuspsy0x1&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeuspsy0x1&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/zeusp/count.svg?"  />
