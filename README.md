@@ -64,7 +64,7 @@
 ###
 
 <h3 align="left">Contact me:</h3>
-<p>zvzeus@gmail.com</p>
+<p>zeusvargaswork@gmail.com</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/zeus1337/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="32" alt="linkedin logo"  />
