@@ -53,8 +53,6 @@
 
 ###
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeuspsy0x1&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/zeusp/count.svg?"  />
 </div>
@@ -65,7 +63,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/zeus1337/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="32" alt="linkedin logo"  />
   </a>
 <p>zvzeus@gmail.com</p>
 </div>
