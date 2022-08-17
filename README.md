@@ -1,10 +1,10 @@
 
-<img align="center"  src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660698614/Group_108_1_ncs2ph.png"  />
+<img align="center"  src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660699418/Group_108_2_q3dajp.png"  />
 
 
 
 
-<p align="left"> <br>I studied psychology and full-stack web development. I'm always in the process of improving my skills to create more and more attractive, faster and easier to use applications. My focus right now is on the front-end, but my current experience is as a full-stack PERN so I know how to connect things. You can see my projects below:</p>
+<p align="center"> <br>I studied psychology and full-stack web development. I'm always in the process of improving my skills to create attractive, fast and easy to use applications. My focus right now is to get really good at front-end, but my current experience is as a full-stack PERN developer so I know how to connect things. You can see my projects below:</p>
 
 <br>
 <h2 align="center">Social Network</h2>
