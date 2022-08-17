@@ -51,8 +51,13 @@
 
 ###
 
+  
+
+
 <div align="center">
+<a href="https://www.linkedin.com/in/zeus1337/">
   <img src="https://profile-counter.glitch.me/zeusp/count.svg?"  />
+</a>
 </div>
 
 ###
