@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 
 
@@ -17,20 +14,20 @@
 ###
 
 <div align="center">
-  <img height="330" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png"  />
+  <img  display="inline" height="360" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png"  />
 </div>
 
 ###
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ###
 
 <h2 align="center">Dog Breeds App</h2>
 
+<div align="center">
+  <img height="260" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660694720/image_28_ouqjtf.png"  />
+</div>
 ###
 
 <p align="left">An app that shows all dog breeds available in the dog api. You can filter the breeds and even create new breeds that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br>You can try it here, but wait a little bit  in the home for the back-end to wake up: https://breeds.vercel.app/</p>
