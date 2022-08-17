@@ -18,7 +18,7 @@
 <img align="right" border= 15px; height="360" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png"  />
 <p align="left">An application to interact with other people through posts, chats, video calls. With an admin dashboard to control content and users. It is also responsive so you can use it on mobile. <br>
 <br>
-♦️ React<br>♦️ Redux Toolkit<br>♦️ Socket.io<br>♦️ Typescript<br>♦️ MongoDB<br>♦️ Mongoose<br>♦️ Node js<br>♦️ Express<br>♦️ Tailwind CSS<br>♦️ Passport<br>♦️ Json Web Token<br><br>You can try it here: www.socialn.com</p>
+♦️ React<br>♦️ Redux Toolkit<br>♦️ Socket.io<br>♦️ Typescript<br>♦️ MongoDB<br>♦️ Mongoose<br>♦️ Node js<br>♦️ Express<br>♦️ Tailwind CSS<br>♦️ Passport<br>♦️ Json Web Token<br><br>You can try it here: www.socialn.me</p>
 
 </div>
 <br>
