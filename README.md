@@ -1,7 +1,10 @@
 
+<img align="center"  src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660698614/Group_108_1_ncs2ph.png"  />
 
 
-<p align="left">Sí, Zeus es mi nombre real. <br><br>Estudié psicología y desarrollo web full-stack. Actualmente estoy en el proceso de mejorar mis habilidades para crear aplicaciones cada vez más atractivas, rápidas y fáciles de utilizar. Me estoy centrando en el front-end, pero tengo experiencia con los stacks de tecnologías MERN y PERN. Puedes ver mis proyectos acá abajo:</p>
+
+
+<p align="left"> <br>I studied psychology and full-stack web development. I'm always in the process of improving my skills to create more and more attractive, faster and easier to use applications. My focus right now is on the front-end, but my current experience is as a full-stack PERN so I know how to connect things. You can see my projects below:</p>
 
 <br>
 <h2 align="center">Social Network</h2>
@@ -9,15 +12,18 @@
 <br>
 <br>
 
+
+
 <div>
 <img align="right" border= 15px; height="360" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png"  />
+<p align="left">An application to interact with other people through posts, chats, video calls. With an admin dashboard to control content and users. It is also responsive so you can use it on mobile. <br>
+<br>
 ♦️ React<br>♦️ Redux Toolkit<br>♦️ Socket.io<br>♦️ Typescript<br>♦️ MongoDB<br>♦️ Mongoose<br>♦️ Node js<br>♦️ Express<br>♦️ Tailwind CSS<br>♦️ Passport<br>♦️ Json Web Token<br><br>You can try it here: www.socialn.com</p>
 
 </div>
 <br>
 <br>
-<br>
-<br>
+
 <h2 align="center">Dog Breeds App</h2>
 <br>
 <br>
