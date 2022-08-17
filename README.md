@@ -1,39 +1,34 @@
 
 
 
-<p align="left">Sí, Zeus es mi nombre real. <br><br>Estudié psicología y desarrollo web full-stack. Actualmente estoy en el proceso de mejorar mis habilidades para crear aplicaciones visualmente atractivas, rápidas y fáciles de utilizar. Me estoy centrando en el front-end, pero tengo experiencia con los stacks de tecnologías MERN y PERN. Puedes ver mis proyectos acá abajo:</p>
+<p align="left">Sí, Zeus es mi nombre real. <br><br>Estudié psicología y desarrollo web full-stack. Actualmente estoy en el proceso de mejorar mis habilidades para crear aplicaciones cada vez más atractivas, rápidas y fáciles de utilizar. Me estoy centrando en el front-end, pero tengo experiencia con los stacks de tecnologías MERN y PERN. Puedes ver mis proyectos acá abajo:</p>
 
-###
-
+<br>
 <h2 align="center">Social Network</h2>
 
-###
-
-<p align="left">A mini social network to interact with other people through posts, chats and video calls. With an admin dashboard to manage the users and content published on it. All while being responsive, so mobile users can enjoy it too... The technologies used on it were: <br><br>♦️ React<br>♦️ Redux Toolkit<br>♦️ Socket.io<br>♦️ Typescript<br>♦️ MongoDB<br>♦️ Mongoose<br>♦️ Node js<br>♦️ Express<br>♦️ Tailwind CSS<br>♦️ Passport<br>♦️ Json Web Token<br><br>You can try it here: www.socialn.com</p>
-
-###
-
-<div align="center">
-  <img  display="inline" height="360" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png"  />
-</div>
-
-###
+<br>
 <br>
 
+<div>
+<img align="right" border= 15px; height="360" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660693402/Group_108_2_phmvaw.png"  />
+♦️ React<br>♦️ Redux Toolkit<br>♦️ Socket.io<br>♦️ Typescript<br>♦️ MongoDB<br>♦️ Mongoose<br>♦️ Node js<br>♦️ Express<br>♦️ Tailwind CSS<br>♦️ Passport<br>♦️ Json Web Token<br><br>You can try it here: www.socialn.com</p>
 
-###
-
-<h2 align="center">Dog Breeds App</h2>
-
-<div align="center">
-  <img height="260" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660694720/image_28_ouqjtf.png"  />
 </div>
-###
+<br>
+<br>
+<br>
+<br>
+<h2 align="center">Dog Breeds App</h2>
+<br>
+<br>
 
-<p align="left">An app that shows all dog breeds available in the dog api. You can filter the breeds and even create new breeds that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br>You can try it here, but wait a little bit  in the home for the back-end to wake up: https://breeds.vercel.app/</p>
-
-###
-
+<div>
+  <img align="right" height="260" src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660694720/image_28_ouqjtf.png"  />
+<p align="left">An app that shows all dog breeds available in the dog api. You can filter the breeds and even create new breeds that are stored in the PostgreSQL database. <br><br>♦️ React<br>♦️ Redux<br>♦️ Node js<br>♦️ Express<br>♦️ CSS (pure css, no preprocessors nor libraries)<br>♦️ PostgreSQL<br><br>You can try it here, but wait a little bit  in the /main for the back-end<br> to wake up: https://breeds.vercel.app/</p>
+</div>
+<br>
+<br>
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -57,12 +52,12 @@
 ###
 
 <h3 align="left">Contact me:</h3>
-
+<p>zvzeus@gmail.com</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/zeus1337/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="32" alt="linkedin logo"  />
   </a>
-<p>zvzeus@gmail.com</p>
+
 </div>
 
 ###
