@@ -1,6 +1,6 @@
-
+<!--
 <img align="center"  src="https://res.cloudinary.com/dnw4kirdp/image/upload/v1660699418/Group_108_2_q3dajp.png"  />
-
+-->
 
 
 
