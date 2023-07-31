@@ -3,9 +3,9 @@
 -->
 
 
-
+<!--
 <p align="center"> <br>I studied psychology and then full-stack web development. Take a look at my projects below:</p>
-
+-->
 <p align="center"> www.zeusvargas.tech </p>
 
 <!--
